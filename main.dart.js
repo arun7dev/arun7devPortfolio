@@ -35401,7 +35401,7 @@ return A.a2($async$h7,r)},
 N(a,b){var s=this,r=null,q="Major Mono Display",p=b.O(t.w).f,o=A.awv(r,B.D,A.ae("Arun",r,r,A.aT(q,r,r),r,r,3)),n=s.d,m=s.e,l=s.f,k=s.r,j=s.x,i=t.p,h=A.axD(A.d([A.bm(A.ae("Arun",r,r,A.aT(q,B.u,r),r,r,3),r,r),s.lx("ABOUT",n,0,b),s.lx("SKILLS",m,800,b),s.lx("PROJECTS",l,1300,b),s.lx("WORK SAMPLES",k,2100,b),s.lx("CONTACT",j,800,b)],i),r,B.aW)
 return A.atS(o,A.b3(A.d([A.bP(A.k7(A.axD(A.d([A.bc(r,s.eT(0,800,b),r,r,r,n,r,r,r),A.bc(r,s.eT(1,500,b),r,r,r,m,r,r,r),A.bc(r,s.eT(2,1500,b),r,r,r,l,r,r,r),A.bc(r,s.eT(3,800,b),r,r,r,k,r,r,r),A.bc(r,s.eT(4,800,b),r,r,r,j,r,r,r),A.bc(r,A.bm(A.au1(A.iY(A.d([A.iY(r,r,"Developed in \ud83d\udc99 with "),A.iY(r,A.bS(r,r,r,r,r,r,r,r,r,r,r,r,r,B.af,r,r,!0,r,r,r,r,r,r,r,r),"Flutter")],t.VO),r,r),r),r,r),r,r,r,r,r,r,r)],i),s.c,r),p.a.b,r))],i),B.G,B.I),new A.X9(B.D,h,r))},
 eT(a,b,c){var s=this,r=null
-switch(a){case 0:return A.bc(r,A.b3(A.d([A.bm(A.abB(A.ae("Arun",r,r,A.aT("Francois One",B.u,r),r,r,20)),r,r),A.bm(A.abB(A.ae("Aspiring Developer",r,r,A.aT("Work Sans",B.u,r),r,r,6)),r,r),A.bm(A.k7(A.ae(u.T,7,B.bL,A.aT("Big Shoulders Text",B.u,r),B.a7,r,2),r,1000),r,r),A.bm(A.jC(B.lm,B.u,r),r,r)],t.p),B.G,B.I),B.D,r,b,r,r,r,r)
+switch(a){case 0:return A.bc(r,A.b3(A.d([A.bm(A.abB(A.ae("Arun",r,r,A.aT("Francois One",B.u,r),r,r,20)),r,r),A.bm(A.abB(A.ae("Aspiring Developer",r,r,A.aT("Work Sans",B.u,r),r,r,6)),r,r),A.bm(A.k7(A.ae(u.T,8,B.bL,A.aT("Big Shoulders Text",B.u,r),B.a7,r,2),r,1000),r,r),A.bm(A.jC(B.lm,B.u,r),r,r)],t.p),B.G,B.I),B.D,r,b,r,r,r,r)
 case 1:return s.rL(b,c)
 case 2:return s.rJ(b,c)
 case 3:return s.rM(b,c)
